@@ -1,0 +1,18 @@
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.exe.config
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.exe
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.pdb
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csproj.AssemblyReference.cache
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csproj.SuggestedBindingRedirects.cache
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Properties.Resources.resources
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csproj.GenerateResource.cache
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csproj.CoreCompileInputs.cache
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.exe
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.pdb
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\Banco\DataBase.sdf
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Tela_Principal.resources
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\System.Data.SQLite.dll
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\System.Data.SqlServerCe.dll
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\bin\Debug\MySql.Data.xml
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csproj.CopyComplete
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Tela_de_Cadastro.resources
+C:\Curso\Cadastro de Clientes\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Tela_Login.resources
